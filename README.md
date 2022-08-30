@@ -5,6 +5,6 @@
 <br>
 <b>make</b> completed with bonuses. The makefile compiles both executables (server / client)
 <br>
-<b>RUN</b> ./server -> the server name is 'server' and its must prints his PID_SERVER at launch , then...
+<b>RUN</b> the server name is 'server' and its must prints his PID_SERVER at launch -> ./server 
 <br>
-<b>RUN</b> client and is run as follows -> ./client PID_SERVER STRING_TO_PASS
+<b>RUN</b> the client name is 'client' and is run as follows -> ./client PID_SERVER STRING_TO_PASS
